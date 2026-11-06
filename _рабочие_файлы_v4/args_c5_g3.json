@@ -1,0 +1,84 @@
+{
+ "wdir": "/tmp/claude-0/-home-user-IntelligenceAnalysis/1d3fe7fa-279b-5280-8789-5d375c374ff1/scratchpad/write_v3",
+ "method": "/tmp/claude-0/-home-user-IntelligenceAnalysis/1d3fe7fa-279b-5280-8789-5d375c374ff1/scratchpad/v4/metod_v4.md",
+ "mode": "/tmp/claude-0/-home-user-IntelligenceAnalysis/1d3fe7fa-279b-5280-8789-5d375c374ff1/scratchpad/v4/rezhim_A.md",
+ "assembled": "/tmp/claude-0/-home-user-IntelligenceAnalysis/1d3fe7fa-279b-5280-8789-5d375c374ff1/scratchpad/assembled_v4.md",
+ "design": "/tmp/claude-0/-home-user-IntelligenceAnalysis/1d3fe7fa-279b-5280-8789-5d375c374ff1/scratchpad/design_v3/DESIGN.md",
+ "sogl": "/tmp/claude-0/-home-user-IntelligenceAnalysis/1d3fe7fa-279b-5280-8789-5d375c374ff1/scratchpad/v4/SOGL_v4.md",
+ "primitives": "/tmp/claude-0/-home-user-IntelligenceAnalysis/1d3fe7fa-279b-5280-8789-5d375c374ff1/scratchpad/v4/A2_primitives_final.md",
+ "main_source": "/tmp/claude-0/-home-user-IntelligenceAnalysis/1d3fe7fa-279b-5280-8789-5d375c374ff1/scratchpad/v4/main_source.md",
+ "service": "/tmp/claude-0/-home-user-IntelligenceAnalysis/1d3fe7fa-279b-5280-8789-5d375c374ff1/scratchpad/assembled_v4_service.md",
+ "books": "Heuer 1999 — /home/user/IntelligenceAnalysis/Pyschology-of-Intelligence-Analysis.md (Hm); Pherson & Heuer 2021 — /home/user/IntelligenceAnalysis/Structured_Analytic_Techniques_for_Intelligence_Analysis_--_Randolph_H__Pherson__Richards_J__Heuer_--_Core_textbook__3rd_edition__Washington__D_C____--_isbn13_9781506368931_--_4b471d4010a7e04bea7616d0cc25455d_--_An.md (Pm); Tetlock & Gardner 2015 — /home/user/IntelligenceAnalysis/Superforecasting___The_Art_and_Science_of_Prediction_--_Philip_E__Tetlock___Dan_Gardner_--_Penguin_Random_House_LLC__New_York__2015_--_Crown_--_isbn13_9780771070532_--_a13b2c84dd80c130bd3134c8081b099a_--_Anna_s_Arc.md (Tm)",
+ "tag": "c5",
+ "outdir": "/tmp/claude-0/-home-user-IntelligenceAnalysis/1d3fe7fa-279b-5280-8789-5d375c374ff1/scratchpad/v4",
+ "ids": [
+  "S00",
+  "S01",
+  "S02",
+  "S03",
+  "S04",
+  "S05",
+  "S06",
+  "S07",
+  "S08",
+  "S09",
+  "S10",
+  "S11",
+  "S12",
+  "S13",
+  "S14",
+  "S15",
+  "S16",
+  "SAPP"
+ ],
+ "doc": true,
+ "policy": "Порядок правки (решение по сходимости): нарушения серьёзности high и medium исправляй все. Нарушение low исправляй, если правка локальна — одно-два предложения и не вводит нового определения, предпосылки или хода вывода; иначе не правь его, а запиши в служебный список участка, раздел 5, подраздел «Цикл c5», с пометкой «отложено (low)» и посчитай в not_fixed. Переписывать то, что нарушением не является, нельзя: каждая лишняя правка создаёт новый текст для проверки.",
+ "units": [
+  {
+   "id": "S14",
+   "contract": "§14",
+   "title": "14. Сценарии и дерево сценариев",
+   "prev": "S13",
+   "next": "S15"
+  },
+  {
+   "id": "S08",
+   "contract": "§8",
+   "title": "8. Диагностика допущений и гипотез",
+   "prev": "S07",
+   "next": "S09",
+   "cross_file": "/tmp/claude-0/-home-user-IntelligenceAnalysis/1d3fe7fa-279b-5280-8789-5d375c374ff1/scratchpad/v4/cross_c5/cross_S08.json"
+  },
+  {
+   "id": "S07",
+   "contract": "§7",
+   "title": "7. Структурированная техника и её семейства",
+   "prev": "S06",
+   "next": "S08"
+  },
+  {
+   "id": "S06",
+   "contract": "§6",
+   "title": "6. Почему знание об ошибке не защищает",
+   "prev": "S05",
+   "next": "S07",
+   "cross_file": "/tmp/claude-0/-home-user-IntelligenceAnalysis/1d3fe7fa-279b-5280-8789-5d375c374ff1/scratchpad/v4/cross_c5/cross_S06.json"
+  },
+  {
+   "id": "S01",
+   "contract": "§1",
+   "title": "1. Сведения, факт и суждение",
+   "prev": "S00",
+   "next": "S02"
+  },
+  {
+   "id": "SAPP",
+   "contract": "Приложения (вне цепочки)",
+   "title": "Приложение А. Реестр имён и Приложение Б. Источники и данности",
+   "prev": "S16",
+   "next": "",
+   "cross_file": "/tmp/claude-0/-home-user-IntelligenceAnalysis/1d3fe7fa-279b-5280-8789-5d375c374ff1/scratchpad/v4/cross_c5/cross_SAPP.json",
+   "cross_only": true
+  }
+ ]
+}
